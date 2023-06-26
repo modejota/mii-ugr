@@ -1,12 +1,15 @@
 [submodule "DSS-MII"]
 	path = dss-mii
-	url = https://github.com/modejota/dss-mii
+	url = https://github.com/modejota/dss-mii.git
 [submodule "CC-MII"]
 	path = VendorVert
-	url = https://github.com/modejota/VendorVert
+	url = https://github.com/modejota/VendorVert.git
 [submodule "SSBW-MII"]
 	path = ssbw-mii
 	url = https://github.com/modejota/ssbw-mii.git
 [submodule "IC-MII"]
 	path = ic-mii
 	url = https://github.com/modejota/ic-mii.git
+[submodule "CC-II-MII"]
+	path = ccii-mii
+	url = https://github.com/modejota/ccii-mii.git
