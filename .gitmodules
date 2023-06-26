@@ -1,3 +1,6 @@
 [submodule "DSS-MII"]
 	path = dss-mii
 	url = https://github.com/modejota/dss-mii
+[submodule "CC-MII"]
+	path = VendorVert
+	url = https://github.com/modejota/VendorVert
