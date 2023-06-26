@@ -4,3 +4,6 @@
 [submodule "CC-MII"]
 	path = VendorVert
 	url = https://github.com/modejota/VendorVert
+[submodule "SSBW-MII"]
+	path = ssbw-mii
+	url = https://github.com/modejota/ssbw-mii.git
