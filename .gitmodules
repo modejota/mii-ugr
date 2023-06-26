@@ -7,3 +7,6 @@
 [submodule "SSBW-MII"]
 	path = ssbw-mii
 	url = https://github.com/modejota/ssbw-mii.git
+[submodule "IC-MII"]
+	path = ic-mii
+	url = https://github.com/modejota/ic-mii.git
