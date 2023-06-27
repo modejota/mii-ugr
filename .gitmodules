@@ -13,3 +13,6 @@
 [submodule "CC-II-MII"]
 	path = ccii-mii
 	url = https://github.com/modejota/ccii-mii.git
+[submodule "EV-MII"]
+	path = ev-mii
+	url = https://github.com/modejota/ev-mii.git
