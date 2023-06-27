@@ -16,3 +16,6 @@
 [submodule "EV-MII"]
 	path = ev-mii
 	url = https://github.com/modejota/ev-mii.git
+[submodule "GIW-MII"]
+	path = giw-mii
+	url = https://github.com/modejota/giw-mii.git
