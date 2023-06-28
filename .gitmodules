@@ -19,3 +19,6 @@
 [submodule "GIW-MII"]
 	path = giw-mii
 	url = https://github.com/modejota/giw-mii.git
+[submodule "SIGE-MII"]
+	path = sige-mii
+	url = https://github.com/modejota/sige-mii.git
