@@ -25,3 +25,6 @@
 [submodule "TID-MII"]
 	path = tid-mii
 	url = https://github.com/modejota/tid-mii.git
+[submodule "DES-MII"]
+	path = des-mii
+	url = https://github.com/modejota/des-mii.git
