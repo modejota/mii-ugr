@@ -28,3 +28,6 @@
 [submodule "DES-MII"]
 	path = des-mii
 	url = https://github.com/modejota/des-mii.git
+[submodule "PGPI-MII"]
+	path = pgpi-mii
+	url = https://github.com/modejota/pgpi-mii.git
