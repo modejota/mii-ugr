@@ -22,3 +22,6 @@
 [submodule "SIGE-MII"]
 	path = sige-mii
 	url = https://github.com/modejota/sige-mii.git
+[submodule "TID-MII"]
+	path = tid-mii
+	url = https://github.com/modejota/tid-mii.git
