@@ -31,3 +31,6 @@
 [submodule "PGPI-MII"]
 	path = pgpi-mii
 	url = https://github.com/modejota/pgpi-mii.git
+[submodule "ass-mii"]
+	path = ass-mii
+	url = git@github.com:modejota/ass-mii.git
